@@ -1,0 +1,1 @@
+# separatedMavenLayerWith2DifferentsSubPartsInBusinessLayer
